@@ -19,11 +19,17 @@ A simple demo of `potc` plugin, which can make the dict prettier.
 
 ## Installation
 
-Just install this demo plugin by source code
+You can simply install it with `pip` command line from the official PyPI site.
 
 ```shell
-git clone https://github.com/potc-dev/potc.git
-cd potc/plugins/potc_dict
+pip install potc-dict
+```
+
+Or install this  plugin by source code
+
+```shell
+git clone https://github.com/potc-dev/potc-dict.git
+cd potc-dict
 pip install .
 ```
 
